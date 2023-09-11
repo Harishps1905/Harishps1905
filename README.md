@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harish PS</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
-- 🌱 I’m currently learning **next13,redux-toolkit,**
+- 🌱 I’m currently learning **next13,redux-toolkit,,TS**
 
-- 💬 Ask me about **reactjs,nextjs,TS,redux,bootstrap,HTML,CSS,JS,expressjs,nodejs,mongodb**
+- 💬 Ask me about **reactjs,nextjs,redux,bootstrap,HTML,CSS,JS,expressjs,nodejs,mongodb**
 
 - 📫 How to reach me **7092516282**
 
